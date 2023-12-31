@@ -1,0 +1,2 @@
+# SolvedLeetCode
+My LeetCode Journal
