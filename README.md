@@ -12,3 +12,4 @@ My LeetCode Journal
 - [ ] Determining Feasibility of a Linear Program through Duality Theory (デュアリティ理論を用いた線形計画の実行可能性の判定)
 - [ ] Dijkstra's algorithm (Shortest Path Problem of Binary Tree) (ダイクストラのアルゴリズム（二分木の最短経路問題）)
 - [X] Palindrome (パリンドローム)
+- [X] Length of Last Word (最後の単語の長さ)
