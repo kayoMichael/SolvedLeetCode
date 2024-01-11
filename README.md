@@ -13,3 +13,4 @@ My LeetCode Journal
 - [ ] Dijkstra's algorithm (Shortest Path Problem of Binary Tree) (ダイクストラのアルゴリズム（二分木の最短経路問題）)
 - [X] Palindrome (パリンドローム)
 - [X] Length of Last Word (最後の単語の長さ)
+- [X] Converting Roman Numerals to Numbers (ローマ数字を数字変換)
