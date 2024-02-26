@@ -1,8 +1,9 @@
 # SolvedLeetCode
+
 My LeetCode Journal
 
+# Goals
 
-# History
 - [ ] Graham-Shmidt Procedure (グラハム・シュミット法)
 - [ ] Gauss-Jordan Elimination (ガウス・ジョルダン法)
 - [ ] Method of Undetermined Coefficients (Differential Equations) (未定係数法（微分方程式）)
@@ -11,6 +12,11 @@ My LeetCode Journal
 - [ ] Simplex Method for Linear Programming (線形計画法のシンプレックス法)
 - [ ] Determining Feasibility of a Linear Program through Duality Theory (デュアリティ理論を用いた線形計画の実行可能性の判定)
 - [ ] Dijkstra's algorithm (Shortest Path Problem of Binary Tree) (ダイクストラのアルゴリズム（二分木の最短経路問題）)
+
+# History
+
 - [X] Palindrome (パリンドローム)
 - [X] Length of Last Word (最後の単語の長さ)
 - [X] Converting Roman Numerals to Numbers (ローマ数字を数字変換)
+- [X] The hare and the tortoise algorithm
+- [X] Reverse and Balanced String using Stacks
