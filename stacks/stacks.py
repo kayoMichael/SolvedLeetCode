@@ -16,5 +16,7 @@ class Stack:
     def is_empty(self):
         return len(self.stack) == 0
 
+    # for debugging purposes only
     def __str__(self):
-        return self.stack
+        structure = str(self.stack)
+        return structure

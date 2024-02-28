@@ -134,3 +134,27 @@ class StackQueue:
 
     def is_empty(self):
         return self.length == 0
+
+
+class PriorityQueues:
+    def __init__(self):
+        self.queue = []
+        self.length = 0
+
+    def enqueue(self, item):
+        self.queue.append(item)
+        self.queue.sort()
+
+    def dequeue(self):
+        if self.is_empty():
+            raise Exception
+        return self.queue.pop(0)
+
+    def size(self):
+        return self.length
+
+    def is_empty(self):
+        return self.size() == 0
+
+    def show_queue(self):
+        return self.queue
