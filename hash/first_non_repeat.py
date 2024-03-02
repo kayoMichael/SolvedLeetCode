@@ -24,6 +24,8 @@ def first_non_repeat_set(word: str):
     repeated = []
     first = ''
     for i in word:
+        if i == " ":
+            continue
         length = len(original)
         original.add(i.lower())
         if len(original) == length:
