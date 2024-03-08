@@ -16,19 +16,20 @@ A valid BST is defined as follows:
 #         self.right = right
 
 
+def in_order_traverse(root, in_order):
+    if root is None:
+        return
+    in_order_traverse(root.left, in_order)
+    in_order.append(root.val)
+    in_order_traverse(root.right, in_order)
+
+
 def is_valid_bst(root):
     """
     :type root: TreeNode
     :rtype: bool
     """
     in_order = []
-
-    def in_order_traverse(root, in_order):
-        if root is None:
-            return
-        in_order_traverse(root.left, in_order)
-        in_order.append(root.val)
-        in_order_traverse(root.right, in_order)
 
     in_order_traverse(root, in_order)
 
