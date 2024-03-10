@@ -36,7 +36,7 @@ My LeetCode Journal
 - [X] Build a pyramid of * from inputs (*からピラミッドを構築する)
 - [X] Build a Binary Search Tree (二分探索木を構築する)
 - [X] Traverse Through a Binary Search Tree (二分探索木を構築する)
-- [X] Find the minimum value of a Binary Search Tree (二分木の最小値を見つける)
+- [X] Find the minimum value and the maximum of a Binary Tree (二分木の最小値を見つける)
 - [X] Validate a Binary Search Tree (二分探索木を検証する)
 - [X] Delete Element from a list in place (リスト内の要素をその場で削除する)
 - [X] Remove Duplicates from a list in place (リスト内の重複をその場で削除する)

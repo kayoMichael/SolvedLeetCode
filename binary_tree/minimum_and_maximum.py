@@ -9,11 +9,35 @@ def find_min_in_value(root):
 
 
 def minimum_value(node):
-    if node.left is None and node.right is None:
-        return node.value
+    if node is None:
+        return float("inf")
     left = minimum_value(node.left)
     right = minimum_value(node.right)
     return min([left, right, node.value])
+
+
+def find_minimum_of_bst(node):
+    previous = None
+    while node is not None:
+        previous = node
+        node = node.left
+
+    return previous
+
+
+def maximum_value(node):
+    if node is None:
+        return float("-inf")
+    left = maximum_value(node.left)
+    right = maximum_value(node.right)
+    return max([left, right, node.value])
+
+
+def maximum_value_bst(node):
+    while node.right is not None:
+        node = node.right
+
+    return node
 
 
 class TestMinValue(unittest.TestCase):
@@ -31,3 +55,5 @@ class TestMinValue(unittest.TestCase):
         self.assertEqual(find_min_in_value(self.tree.root), 2)
 
 
+if __name__ == "__main__":
+    unittest.TestCase()

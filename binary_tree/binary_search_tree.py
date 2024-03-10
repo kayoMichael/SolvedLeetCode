@@ -32,7 +32,7 @@ class BinarySearchTree:
     def insert(self, value):
         current = self.root
         self.root = self._insert(current, value)
-        return self.root.left.value
+        return self.root
 
     def _insert(self, node, value):
         if node is None:
