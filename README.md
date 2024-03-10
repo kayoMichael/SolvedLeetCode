@@ -43,3 +43,4 @@ My LeetCode Journal
 - [X] Remove Duplicates of more than 2 from a list in place (リスト内の2つ以上の重複をその場で削除する)
 - [X] Find the nth row of a Pascal Triangle (パスカルの三角形の第 n 行を見つける)
 - [X] Find the nth number in the Fibonacci Sequence (フィボナッチ数列の第n番目の数を見つける)
+- [X] Find the Kth node from the root node in a Binary Search Tree (根ノードから二分探索木内のK番目のノードを見つける)
