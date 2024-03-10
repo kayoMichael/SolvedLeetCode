@@ -8,6 +8,7 @@ A valid BST is defined as follows:
     Both the left and right subtrees must also be binary search trees.
 """
 
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
@@ -40,3 +41,18 @@ def is_valid_bst(root):
         before = i
 
     return True
+
+
+# O(N) method with range
+def is_valid_bst_range(node):
+    min_node = float('-inf')
+    max_node = float('inf')
+
+    def is_valid(root, minimum, maximum):
+        if root is None:
+            return True
+        elif max_node < root.value or root.value < min_node:
+            return False
+        return is_valid(root.left, minimum, root.value - 1) and is_valid(root.right, root.value + 1, maximum)
+
+    return is_valid(node)
