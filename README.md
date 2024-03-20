@@ -46,3 +46,4 @@ My LeetCode Journal
 - [X] Find the Kth node from the root node in a Binary Search Tree (根ノードから二分探索木内のK番目のノードを見つける)
 - [X] Level Order Traversal of a Binary Search Tree (二分探索木のレベル順走査)
 - [X] Merge two linked lists at index x and y (リンクされた2つのリストをインデックスxとyでマージ)
+- [X] Calculate how many distinct ways to climb a set of n stairs (n段の階段を登る方法の数を計算)
