@@ -49,3 +49,4 @@ My LeetCode Journal
 - [X] Calculate how many distinct ways to climb a set of n stairs (n段の階段を登る方法の数を計算)
 - [X] Merge two sorted Arrays in place by modifying the first list (最初のリストを修正して、場所によって2つのソートされた配列をマージ)
 - [X] Calculate the Majority using the Boyer-Moore Majority Vote Algorithm (Boyer-Moore多数決アルゴリズムを使用して多数決を計算)
+- [X] Implement the Power Operation (x ^ n) in O(log(N)) time (O(log(N))時間でべき乗演算（x ^ n）を実装)
