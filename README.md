@@ -47,3 +47,4 @@ My LeetCode Journal
 - [X] Level Order Traversal of a Binary Search Tree (二分探索木のレベル順走査)
 - [X] Merge two linked lists at index x and y (リンクされた2つのリストをインデックスxとyでマージ)
 - [X] Calculate how many distinct ways to climb a set of n stairs (n段の階段を登る方法の数を計算)
+- [X] Merge two sorted Arrays in place by modifying the first list (最初のリストを修正して、場所によって2つのソートされた配列をマージ)
