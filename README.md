@@ -45,3 +45,4 @@ My LeetCode Journal
 - [X] Find the nth number in the Fibonacci Sequence (フィボナッチ数列の第n番目の数を見つける)
 - [X] Find the Kth node from the root node in a Binary Search Tree (根ノードから二分探索木内のK番目のノードを見つける)
 - [X] Level Order Traversal of a Binary Search Tree (二分探索木のレベル順走査)
+- [X] Merge two linked lists at index x and y (リンクされた2つのリストをインデックスxとyでマージ)
