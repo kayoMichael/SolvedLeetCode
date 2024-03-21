@@ -50,3 +50,5 @@ My LeetCode Journal
 - [X] Merge two sorted Arrays in place by modifying the first list (最初のリストを修正して、場所によって2つのソートされた配列をマージ)
 - [X] Calculate the Majority using the Boyer-Moore Majority Vote Algorithm (Boyer-Moore多数決アルゴリズムを使用して多数決を計算)
 - [X] Implement the Power Operation (x ^ n) in O(log(N)) time (O(log(N))時間でべき乗演算（x ^ n）を実装)
+- [X] Maximize stolen money from adjacent houses with connected security systems. (
+  同じ夜に隣接した家を犯すことなく、盗むことができる最大の金額を計算)
