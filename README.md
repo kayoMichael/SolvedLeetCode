@@ -52,3 +52,4 @@ My LeetCode Journal
 - [X] Implement the Power Operation (x ^ n) in O(log(N)) time (O(log(N))時間でべき乗演算（x ^ n）を実装)
 - [X] Maximize stolen money from adjacent houses with connected security systems. (
   同じ夜に隣接した家を犯すことなく、盗むことができる最大の金額を計算)
+- [X] Minimum Cost of Climbing Stairs (階段を登る最小コスト)
