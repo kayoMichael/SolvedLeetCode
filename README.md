@@ -15,7 +15,7 @@ My LeetCode Journal
 
 # History
 
-- [X] Palindrome (パリンドローム)
+- [X] Palindrome (文字列が回文かどうか特定)
 - [X] Length of Last Word (最後の単語の長さ)
 - [X] Converting Roman Numerals to Numbers (ローマ数字を数字変換)
 - [X] The hare and the tortoise algorithm (ウサギと亀のアルゴリズム)
@@ -53,3 +53,4 @@ My LeetCode Journal
 - [X] Maximize stolen money from adjacent houses with connected security systems. (
   同じ夜に隣接した家を犯すことなく、盗むことができる最大の金額を計算)
 - [X] Minimum Cost of Climbing Stairs (階段を登る最小コスト)
+- [X] Determining if a Linked List is a Palindrome (連結リストが回文であるかどうかを決定する)
