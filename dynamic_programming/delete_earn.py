@@ -63,4 +63,4 @@ def delete_and_earn_2(nums: List[int]) -> int:
         if i == 1:
             return max_points[1]
 
-        return max(max_points[nums] + helper(nums - 2), helper(nums - 1))
+    return max(max_points[nums] + helper(nums - 2), helper(nums - 1))

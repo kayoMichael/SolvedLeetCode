@@ -55,3 +55,4 @@ My LeetCode Journal
 - [X] Minimum Cost of Climbing Stairs (階段を登る最小コスト)
 - [X] Determining if a Linked List is a Palindrome (連結リストが回文であるかどうかを決定する)
 - [X] Delete and Earn (削除して取得)
+- [X] Find the longest subsequence in a string (文字列内で最長の部分列を見つける)
