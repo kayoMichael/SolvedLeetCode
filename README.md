@@ -54,3 +54,4 @@ My LeetCode Journal
   同じ夜に隣接した家を犯すことなく、盗むことができる最大の金額を計算)
 - [X] Minimum Cost of Climbing Stairs (階段を登る最小コスト)
 - [X] Determining if a Linked List is a Palindrome (連結リストが回文であるかどうかを決定する)
+- [X] Delete and Earn (削除して取得)
