@@ -60,3 +60,4 @@ My LeetCode Journal
 - [X] Best Time to Buy and Sell Stocks II (株を買い、売る最良のタイミング II)
 - [X] Rotate Array in Place (配列をその場で回転させる)
 - [X] Nth Element in a Tribonacci (トリボナッチ数列のN番目の要素)
+- [X] Finding the Longest Common Subsequence (最長共通部分列の検索)
