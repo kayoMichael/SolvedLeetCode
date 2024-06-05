@@ -61,3 +61,4 @@ My LeetCode Journal
 - [X] Rotate Array in Place (配列をその場で回転させる)
 - [X] Nth Element in a Tribonacci (トリボナッチ数列のN番目の要素)
 - [X] Finding the Longest Common Subsequence (最長共通部分列の検索)
+- [X] Maximum Score from Performing Multiplication Operations (演算操作を実行して得られる最大スコア)
