@@ -62,3 +62,4 @@ My LeetCode Journal
 - [X] Nth Element in a Tribonacci (トリボナッチ数列のN番目の要素)
 - [X] Finding the Longest Common Subsequence (最長共通部分列の検索)
 - [X] Maximum Score from Performing Multiplication Operations (演算操作を実行して得られる最大スコア)
+- [X] Find the largest sum of the elements of a subarray of length k (部分配列の長さ k の要素の合計の中で最大の値を取得)
