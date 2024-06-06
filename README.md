@@ -64,3 +64,4 @@ My LeetCode Journal
 - [X] Maximum Score from Performing Multiplication Operations (演算操作を実行して得られる最大スコア)
 - [X] Find the largest sum of the elements of a subarray of length k (部分配列の長さ k の要素の合計の中で最大の値を取得)
 - [X] Maximum Average Subarray (最大平均部分配列)
+- [X] Maximum Subarray of Consecutive Ones and K Zeroes (連続する1の最大部分配列とK個の0)
