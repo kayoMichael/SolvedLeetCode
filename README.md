@@ -66,3 +66,4 @@ My LeetCode Journal
 - [X] Maximum Average Subarray (最大平均部分配列)
 - [X] Maximum Subarray of Consecutive Ones and K Zeroes (連続する1の最大部分配列とK個の0)
 - [X] Number of Connected Components in a Linked List (連結リスト内の連結成分の数)
+- [X] Shortest Jump to reach the end of a list (DP) (リストの最後に到達するための最短ジャンプ数)
