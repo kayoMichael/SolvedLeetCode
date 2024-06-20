@@ -65,3 +65,4 @@ My LeetCode Journal
 - [X] Find the largest sum of the elements of a subarray of length k (部分配列の長さ k の要素の合計の中で最大の値を取得)
 - [X] Maximum Average Subarray (最大平均部分配列)
 - [X] Maximum Subarray of Consecutive Ones and K Zeroes (連続する1の最大部分配列とK個の0)
+- [X] Number of Connected Components in a Linked List (連結リスト内の連結成分の数)
