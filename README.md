@@ -68,3 +68,4 @@ My LeetCode Journal
 - [X] Number of Connected Components in a Linked List (連結リスト内の連結成分の数)
 - [X] Shortest Jump to reach the end of a list (DP) (リストの最後に到達するための最短ジャンプ数)
 - [X] Sort a list by its squared value (要素の二乗値でリストをソートする)
+- [X] Longest Consecutive Subarray of Ones (連続する1の最大部分配列と1個の0)
