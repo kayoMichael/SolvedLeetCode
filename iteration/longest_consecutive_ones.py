@@ -25,6 +25,12 @@ def consecutive_ones(s):
     return answer
 
 
+x
+
+
+# Time Complexity: O(N)
+# Space Complexity: O(1)
+
 class TestConsecutiveOnes(unittest.TestCase):
     def setUp(self) -> None:
         self.long_list = [0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1]

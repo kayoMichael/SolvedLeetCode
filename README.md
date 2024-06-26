@@ -69,4 +69,5 @@ My LeetCode Journal
 - [X] Shortest Jump to reach the end of a list (DP) (リストの最後に到達するための最短ジャンプ数)
 - [X] Sort a list by its squared value (要素の二乗値でリストをソートする)
 - [X] Longest Consecutive Subarray of Ones (連続する1の最大部分配列と1個の0)
-- [X] Number of ways to Split Array (配列を分割する方法の数
+- [X] Number of ways to Split Array (配列を分割する方法の数)
+- [X] Minimum Value to Get Positive Step by Step Sum (正の段階的な合計を得るための最小値)
