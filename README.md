@@ -4,6 +4,7 @@ My LeetCode Journal
 
 # Goals
 
+- [X] Ford-Fullkerson Algorithm (フォード・ファルカーソンのアルゴリズム)
 - [ ] Graham-Shmidt Procedure (グラハム・シュミット法)
 - [ ] Gauss-Jordan Elimination (ガウス・ジョルダン法)
 - [ ] Method of Undetermined Coefficients (Differential Equations) (未定係数法（微分方程式）)
