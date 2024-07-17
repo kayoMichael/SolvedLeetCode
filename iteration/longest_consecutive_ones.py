@@ -25,9 +25,6 @@ def consecutive_ones(s):
     return answer
 
 
-x
-
-
 # Time Complexity: O(N)
 # Space Complexity: O(1)
 

@@ -73,3 +73,4 @@ My LeetCode Journal
 - [X] Number of ways to Split Array (配列を分割する方法の数)
 - [X] Minimum Value to Get Positive Step by Step Sum (正の段階的な合計を得るための最小値)
 - [X] K Radius Subarray Averages (K 半径の部分配列平均)
+- [X] Number of Subarray equal to K (Kに等しい部分配列の数)
