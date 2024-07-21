@@ -78,3 +78,4 @@ My LeetCode Journal
 - [X] Find a Player with zero or one losses (0敗または1敗の選手を探す)
 - [X] Maximum Length of Contiguous Subarray (連続部分配列の最大長)
 - [X] Group Anagrams (アナグラムをグループ化)
+- [X] Longest Substring of Non-Repeating Characters (重複しない文字の最長部分文字列)
