@@ -80,3 +80,4 @@ My LeetCode Journal
 - [X] Group Anagrams (アナグラムをグループ化)
 - [X] Longest Substring of Non-Repeating Characters (重複しない文字の最長部分文字列)
 - [X] Counting Sort (分布数えソート)
+- [X] Reverse Pairs of Linked List (連結リストの逆ペア交換)
