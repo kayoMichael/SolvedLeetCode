@@ -11,7 +11,8 @@ My LeetCode Journal
 - [ ] Method of Variation of Parameters (Differential Equations) (パラメータの変動法（微分方程式）)
 - [ ] Squeeze Theorem (Validation of Limits of two variables) (スクイーズ定理（二変数の極限の検証）)
 - [ ] Simplex Method for Linear Programming (線形計画法のシンプレックス法)
-- [ ] Determining Feasibility of a Linear Program through Duality Theory (デュアリティ理論を用いた線形計画の実行可能性の判定)
+- [ ] Determining Feasibility of a Linear Program through Duality Theory (
+  デュアリティ理論を用いた線形計画の実行可能性の判定)
 - [ ] Dijkstra's algorithm (Shortest Path Problem of Binary Tree) (ダイクストラのアルゴリズム（二分木の最短経路問題）)
 
 # History
@@ -48,8 +49,10 @@ My LeetCode Journal
 - [X] Level Order Traversal of a Binary Search Tree (二分探索木のレベル順走査)
 - [X] Merge two linked lists at index x and y (リンクされた2つのリストをインデックスxとyでマージ)
 - [X] Calculate how many distinct ways to climb a set of n stairs (n段の階段を登る方法の数を計算)
-- [X] Merge two sorted Arrays in place by modifying the first list (最初のリストを修正して、場所によって2つのソートされた配列をマージ)
-- [X] Calculate the Majority using the Boyer-Moore Majority Vote Algorithm (Boyer-Moore多数決アルゴリズムを使用して多数決を計算)
+- [X] Merge two sorted Arrays in place by modifying the first list (
+  最初のリストを修正して、場所によって2つのソートされた配列をマージ)
+- [X] Calculate the Majority using the Boyer-Moore Majority Vote Algorithm (
+  Boyer-Moore多数決アルゴリズムを使用して多数決を計算)
 - [X] Implement the Power Operation (x ^ n) in O(log(N)) time (O(log(N))時間でべき乗演算（x ^ n）を実装)
 - [X] Maximize stolen money from adjacent houses with connected security systems. (
   同じ夜に隣接した家を犯すことなく、盗むことができる最大の金額を計算)
@@ -81,3 +84,4 @@ My LeetCode Journal
 - [X] Longest Substring of Non-Repeating Characters (重複しない文字の最長部分文字列)
 - [X] Counting Sort (分布数えソート)
 - [X] Reverse Pairs of Linked List (連結リストの逆ペア交換)
+- [X] Reverse Between Linked List (連結リストの間の逆転)
