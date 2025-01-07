@@ -1,87 +1,67 @@
-# SolvedLeetCode
+# My LeetCode Journal
 
-My LeetCode Journal
-
-# Goals
-
-- [X] Ford-Fullkerson Algorithm (フォード・ファルカーソンのアルゴリズム)
-- [ ] Graham-Shmidt Procedure (グラハム・シュミット法)
-- [ ] Gauss-Jordan Elimination (ガウス・ジョルダン法)
-- [ ] Method of Undetermined Coefficients (Differential Equations) (未定係数法（微分方程式）)
-- [ ] Method of Variation of Parameters (Differential Equations) (パラメータの変動法（微分方程式）)
-- [ ] Squeeze Theorem (Validation of Limits of two variables) (スクイーズ定理（二変数の極限の検証）)
-- [ ] Simplex Method for Linear Programming (線形計画法のシンプレックス法)
-- [ ] Determining Feasibility of a Linear Program through Duality Theory (
-  デュアリティ理論を用いた線形計画の実行可能性の判定)
-- [ ] Dijkstra's algorithm (Shortest Path Problem of Binary Tree) (ダイクストラのアルゴリズム（二分木の最短経路問題）)
-
-# History
-
-- [X] Palindrome (文字列が回文かどうか特定)
-- [X] Length of Last Word (最後の単語の長さ)
-- [X] Converting Roman Numerals to Numbers (ローマ数字を数字変換)
-- [X] The hare and the tortoise algorithm (ウサギと亀のアルゴリズム)
-- [X] Reverse and Balanced String using Stacks (スタックを使用した文字列の逆転とバランス)
-- [X] Create a Linked List (連結リストの作成)
-- [X] Find Intersection in Linked List (連結リストでの交差点の検出)
-- [X] Reverse a Linked List (連結リストの逆転)
-- [X] Middle of the Linked List (連結リストの中央)
-- [X] kth node of a linked list (連結リストのk番目のノード)
-- [X] Determine if linked list is circular (連結リストが循環しているかどうかを判断する)
-- [X] Unique pairs of integers that have difference k (差がkのユニークな整数のペア)
-- [X] Create a Queue (キューの作成)
-- [X] Reverse first k elements of queue (キューの最初のk要素を逆転)
-- [X] Reverse the Queue (キューの逆転)
-- [X] Create a Stack (スタックの作成)
-- [X] Reverse string using a Stack (スタックを使用して文字列を逆転する)
-- [X] Determine if brackets are balanced in a string (文字列内の括弧がバランスしているかどうかを判断する)
-- [X] Build a pyramid of * from inputs (*からピラミッドを構築する)
-- [X] Build a Binary Search Tree (二分探索木を構築する)
-- [X] Traverse Through a Binary Search Tree (二分探索木を構築する)
-- [X] Find the minimum value and the maximum of a Binary Tree (二分木の最小値を見つける)
-- [X] Validate a Binary Search Tree (二分探索木を検証する)
-- [X] Delete Element from a list in place (リスト内の要素をその場で削除する)
-- [X] Remove Duplicates from a list in place (リスト内の重複をその場で削除する)
-- [X] Remove Duplicates of more than 2 from a list in place (リスト内の2つ以上の重複をその場で削除する)
-- [X] Find the nth row of a Pascal Triangle (パスカルの三角形の第 n 行を見つける)
-- [X] Find the nth number in the Fibonacci Sequence (フィボナッチ数列の第n番目の数を見つける)
-- [X] Find the Kth node from the root node in a Binary Search Tree (根ノードから二分探索木内のK番目のノードを見つける)
-- [X] Level Order Traversal of a Binary Search Tree (二分探索木のレベル順走査)
-- [X] Merge two linked lists at index x and y (リンクされた2つのリストをインデックスxとyでマージ)
-- [X] Calculate how many distinct ways to climb a set of n stairs (n段の階段を登る方法の数を計算)
-- [X] Merge two sorted Arrays in place by modifying the first list (
-  最初のリストを修正して、場所によって2つのソートされた配列をマージ)
-- [X] Calculate the Majority using the Boyer-Moore Majority Vote Algorithm (
-  Boyer-Moore多数決アルゴリズムを使用して多数決を計算)
-- [X] Implement the Power Operation (x ^ n) in O(log(N)) time (O(log(N))時間でべき乗演算（x ^ n）を実装)
-- [X] Maximize stolen money from adjacent houses with connected security systems. (
-  同じ夜に隣接した家を犯すことなく、盗むことができる最大の金額を計算)
-- [X] Minimum Cost of Climbing Stairs (階段を登る最小コスト)
-- [X] Determining if a Linked List is a Palindrome (連結リストが回文であるかどうかを決定する)
-- [X] Delete and Earn (削除して取得)
-- [X] Find the longest subsequence in a string (文字列内で最長の部分列を見つける)
-- [X] Determine whether the sudoku is valid (Sudokuが有効かどうかを判断)
-- [X] Best Time to Buy and Sell Stocks II (株を買い、売る最良のタイミング II)
-- [X] Rotate Array in Place (配列をその場で回転させる)
-- [X] Nth Element in a Tribonacci (トリボナッチ数列のN番目の要素)
-- [X] Finding the Longest Common Subsequence (最長共通部分列の検索)
-- [X] Maximum Score from Performing Multiplication Operations (演算操作を実行して得られる最大スコア)
-- [X] Find the largest sum of the elements of a subarray of length k (部分配列の長さ k の要素の合計の中で最大の値を取得)
-- [X] Maximum Average Subarray (最大平均部分配列)
-- [X] Maximum Subarray of Consecutive Ones and K Zeroes (連続する1の最大部分配列とK個の0)
-- [X] Number of Connected Components in a Linked List (連結リスト内の連結成分の数)
-- [X] Shortest Jump to reach the end of a list (DP) (リストの最後に到達するための最短ジャンプ数)
-- [X] Sort a list by its squared value (要素の二乗値でリストをソートする)
-- [X] Longest Consecutive Subarray of Ones (連続する1の最大部分配列と1個の0)
-- [X] Number of ways to Split Array (配列を分割する方法の数)
-- [X] Minimum Value to Get Positive Step by Step Sum (正の段階的な合計を得るための最小値)
-- [X] K Radius Subarray Averages (K 半径の部分配列平均)
-- [X] Number of Subarray equal to K (Kに等しい部分配列の数)
-- [X] Number of Subarray with K odd numbers (K個の奇数を含む部分配列の数)
-- [X] Find a Player with zero or one losses (0敗または1敗の選手を探す)
-- [X] Maximum Length of Contiguous Subarray (連続部分配列の最大長)
-- [X] Group Anagrams (アナグラムをグループ化)
-- [X] Longest Substring of Non-Repeating Characters (重複しない文字の最長部分文字列)
-- [X] Counting Sort (分布数えソート)
-- [X] Reverse Pairs of Linked List (連結リストの逆ペア交換)
-- [X] Reverse Between Linked List (連結リストの間の逆転)
+- [X] Length of Last Word
+- [X] Converting Roman Numerals to Numbers
+- [X] The hare and the tortoise algorithm
+- [X] Reverse and Balanced String using Stacks
+- [X] Create a Linked List
+- [X] Find Intersection in Linked List
+- [X] Reverse a Linked List
+- [X] Middle of the Linked List
+- [X] kth node of a linked list
+- [X] Determine if linked list is circular
+- [X] Unique pairs of integers that have difference k
+- [X] Create a Queue
+- [X] Reverse first k elements of queue
+- [X] Reverse the Queue
+- [X] Create a Stack
+- [X] Reverse string using a Stack
+- [X] Determine if brackets are balanced in a string
+- [X] Build a pyramid of * from inputs
+- [X] Build a Binary Search Tree
+- [X] Traverse Through a Binary Search Tree
+- [X] Find the minimum value and the maximum of a Binary Tree
+- [X] Validate a Binary Search Tree
+- [X] Delete Element from a list in place
+- [X] Remove Duplicates from a list in place
+- [X] Remove Duplicates of more than 2 from a list in place
+- [X] Find the nth row of a Pascal Triangle
+- [X] Find the nth number in the Fibonacci Sequence
+- [X] Find the Kth node from the root node in a Binary Search Tree
+- [X] Level Order Traversal of a Binary Search Tree
+- [X] Merge two linked lists at index x and y
+- [X] Calculate how many distinct ways to climb a set of n stairs
+- [X] Merge two sorted Arrays in place by modifying the first list
+- [X] Calculate the Majority using the Boyer-Moore Majority Vote Algorithm
+- [X] Implement the Power Operation (x ^ n) in O(log(N)) time
+- [X] Maximize stolen money from adjacent houses with connected security systems
+- [X] Minimum Cost of Climbing Stairs
+- [X] Determining if a Linked List is a Palindrome
+- [X] Delete and Earn
+- [X] Find the longest subsequence in a string
+- [X] Determine whether the sudoku is valid
+- [X] Best Time to Buy and Sell Stocks II
+- [X] Rotate Array in Place
+- [X] Nth Element in a Tribonacci
+- [X] Finding the Longest Common Subsequence
+- [X] Maximum Score from Performing Multiplication Operations
+- [X] Find the largest sum of the elements of a subarray of length k
+- [X] Maximum Average Subarray
+- [X] Maximum Subarray of Consecutive Ones and K Zeroes
+- [X] Number of Connected Components in a Linked List
+- [X] Shortest Jump to reach the end of a list (DP)
+- [X] Sort a list by its squared value
+- [X] Longest Consecutive Subarray of Ones
+- [X] Number of ways to Split Array
+- [X] Minimum Value to Get Positive Step by Step Sum
+- [X] K Radius Subarray Averages
+- [X] Number of Subarray equal to K
+- [X] Number of Subarray with K odd numbers
+- [X] Find a Player with zero or one losses
+- [X] Maximum Length of Contiguous Subarray
+- [X] Group Anagrams
+- [X] Longest Substring of Non-Repeating Characters
+- [X] Counting Sort
+- [X] Reverse Pairs of Linked List
+- [X] Reverse Between Linked List
+- [X] Simplify Directory Path
