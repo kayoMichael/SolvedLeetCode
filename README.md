@@ -66,3 +66,4 @@
 - [X] Reverse Between Linked List
 - [X] Simplify Directory Path
 - [X] Make String Good
+- [X] Find Days to Higher Temperature (Monotonic Stack)
